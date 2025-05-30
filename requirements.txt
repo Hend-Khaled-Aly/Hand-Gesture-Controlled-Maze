@@ -6,3 +6,6 @@ pydantic
 numpy
 pytest
 httpx
+mlflow
+pandas
+joblib

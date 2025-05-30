@@ -6,7 +6,7 @@ from app.model import GestureModel
 app = FastAPI()
 
 model = GestureModel(
-    model_path="models/XGBoost_Best_Model.pkl",
+    model_path="models/XGBoost_Best_model.pkl",
     scaler_path="models/scaler.pkl",
     encoder_path="models/label_encoder.pkl"
 )
