@@ -1,0 +1,4 @@
+XGBoost_Best_model.pkl
+hand_landmarks_data.csv
+mlruns/
+train.py
