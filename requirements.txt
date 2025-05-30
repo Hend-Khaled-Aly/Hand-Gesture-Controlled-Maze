@@ -9,3 +9,4 @@ httpx
 mlflow
 pandas
 joblib
+prometheus-fastapi-instrumentator
