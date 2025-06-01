@@ -63,11 +63,10 @@ The chosen model is saved as an MLflow artifact, and i moved it to production st
 ---
 Project File Structure
 
-├── hand_landmarks_data.csv      # CSV dataset with hand landmarks and labels
-├── XGBoost_Best_model.pkl       # Serialized XGBoost model for production use
-├── label_encoder.pkl            # Label encoder for gesture classes
-├── scaler.pkl                   # Scaler for feature normalization
-├── train.py                     # Script to train and log models with MLflow
-├── mlruns/                      # Directory containing MLflow experiment logs
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
+- hand_landmarks_data.csv      # CSV dataset with hand landmarks and labels
+- XGBoost_Best_model.pkl       # Serialized XGBoost model for production use
+- label_encoder.pkl            # Label encoder for gesture classes
+- scaler.pkl                   # Scaler for feature normalization
+- train.py                     # Script to train and log models with MLflow
+- mlruns/                      # Directory containing MLflow experiment logs
+- README.md                    # Project documentation
