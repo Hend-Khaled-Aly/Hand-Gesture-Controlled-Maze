@@ -51,9 +51,3 @@ This repository contains multiple branches, each dedicated to a specific stage o
 - 🎥 **Demo Video**: Maze solved using hand gestures (link included in project submission)
 
 
-
-- [Your Name]
-- [Teammates if any]
-
----
-
