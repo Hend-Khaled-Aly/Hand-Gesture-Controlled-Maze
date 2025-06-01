@@ -70,3 +70,6 @@ Project File Structure
 - train.py                     -> Script to train and log models with MLflow
 - mlruns/                      -> Directory containing MLflow experiment logs
 - README.md                    -> Project documentation
+
+---
+Note: you will find screenshots in screenshots/ folder , showing that i compared three models, and choose the best (XGBoost) and this is the one i pushed it here due to the large size of the other models
