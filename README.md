@@ -39,7 +39,7 @@ This backend project is part of a full MLOps pipeline that includes:
 - requirements.txt
 - README.md
 
-## Monitoring Metrics
+## 📊 Monitoring Metrics
 collected and visualized the following metrics using Prometheus + Grafana:
 1. Model-related — python_gc_collections_total
 Tracks Python garbage collection events.
